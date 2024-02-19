@@ -1,4 +1,4 @@
-![image](https://github.com/CristianLopes/02-treine-me/assets/13282242/5c6ec6f8-f395-4ea2-bb54-6242e4e10477)# 02-treine-me
+# 02-treine-me
 This repository is used to review css basics
 
 Review in this project.
