@@ -1,7 +1,7 @@
 # 02-treine-me
-This repository is used to review css basics
+This repository is used to review CSS basics
 
-Review in this project.
+Concepts reviewed in this project
 - Semantic Html
 - Accessibility
 - CSS Pseudo-Elements
